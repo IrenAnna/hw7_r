@@ -4,7 +4,7 @@
 }
 
 .wrapper {
-
+    max-width: 600px;
     position: fixed;
     min-height: 500px;
     width: 50%;
@@ -17,7 +17,7 @@
 }
 
 .container {
-    position: absolute ;
+    position: fixed;
     width: 400px;
     height: 300px;
     margin: 0 auto;
